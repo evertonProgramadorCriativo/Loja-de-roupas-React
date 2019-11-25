@@ -14,7 +14,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "compile:sass": "node-sass components/main.scss css/style.css -w",
+    "compile:sass": "node-sass src/components/main.scss  src/css/style.css -w",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
